@@ -45,5 +45,13 @@ Project Name: Flutter Theming Riverpod Demo
     Open the project in your preferred Flutter IDE.
     Run the application on an emulator or physical device.
     Use the theme switch on the HomeScreen to toggle between light and dark themes.
-    This project serves as a useful reference for implementing dynamic theming in Flutter applications using Riverpod for state 
+    This project serves as a useful reference for implementing dynamic theming in Flutter 
+    applications using Riverpod for state 
     management. Users can easily adapt and integrate this functionality into their own projects.
+
+
+- Demo:
+  
+
+https://github.com/thenewsyria/CODED-CC-task_Riverpod/assets/96256695/42a94af2-95cc-4cee-b06c-c87c80e31b8e
+
