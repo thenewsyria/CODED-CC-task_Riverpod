@@ -4,8 +4,9 @@ Description for your Flutter project:
 
 Project Name: Flutter Theming Riverpod Demo
 
-Description:
-This Flutter project is a demo application showcasing dynamic theming using the Riverpod state management library. It allows users to switch between light and dark themes, providing a seamless and aesthetically pleasing user experience. The project consists of several components organized in a structured manner:
+- Description:
+
+This Flutter project is a demo application showcasing dynamic theming using the Riverpod state management library. It allows users to     switch between light and dark themes, providing a seamless and aesthetically pleasing user experience. The project consists of           several components organized in a structured manner:
 
 Riverpod Folder:
 
@@ -30,6 +31,7 @@ Themes.dart:
 
 The Themes class defines the light and dark themes used in the app.
 It sets various theme properties such as brightness, scaffoldBackgroundColor, and appBarTheme to create distinct visual styles for the light and dark themes.
+
 How to Use:
 
 Clone or download the project from GitHub.
